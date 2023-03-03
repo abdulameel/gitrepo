@@ -1,2 +1,5 @@
  thi is first line in new file
+ 
+ 
+ systemctl edit jenkins --full
 
